@@ -1,4 +1,8 @@
-# Silicon Valley Simulator
+![alt text](https://github.com/adammmanka/S4/blob/main/img/forkebotlogo.png "ForkedBOT logo")
+
+# S4
+
+Silicon Valley Simulator
 
 A 3D game inspired by Silicon Valley, featuring a virtual tech town with various companies. Built with Three.js and TypeScript.
 
